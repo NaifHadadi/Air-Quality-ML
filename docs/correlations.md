@@ -10,6 +10,13 @@ This gives a value between **–1 and +1**:
 - **0**: no linear relationship
 - **–1**: perfect negative linear relationship
 
+<br>
+
+![image](https://github.com/user-attachments/assets/7c4f4664-f045-45fc-b0c3-0a0a07c814b2)
+
+<br>
+<br>
+
 # Key Findings & Interpretation of the Heatmap
 
 | **Variable Pair** | **Correlation** | **Strength & Interpretation**                            |
