@@ -78,8 +78,8 @@ Air quality tends to be worst in **late summer and fall**—a key time to focus 
 <br>
 
 # Correlation Study
-The main finding of the correlation study is summarized in the following table (for more details, refer to the [correlation analysis document](/docs/correlations.md) ):
-Key Findings & Interpretation of the Heatmap
+The main finding of the correlation study is summarized in the following table (for more details, refer to the [correlation analysis document](/docs/correlations.md)):
+
 
 <br>
 
@@ -102,14 +102,14 @@ Key Findings & Interpretation of the Heatmap
 
 **The key takeaways from this study are:**
 
-####  **1. Strong Coupling Between Combustion Pollutants (e.g, NO₂ and CO)**
-####  **2. Wind Speed (AWND) Has a Major Dispersive Effect on Air Pollutants**
+####  **1. Strong coupling between combustion pollutants (e.g, NO₂ and CO)**
+####  **2. Wind speed (AWND) has a major dispersive effect on air pollutants**
 - **Correlations:**
   - AWND–NO₂: **–0.61**
   - AWND–CO: **–0.60**
   - AWND–PM2.5: **–0.34**
-####  **3. Temperature Positively Influences Ozone and Particulate Levels**
-####  **4. Ozone Behavior is Inversely Related to Combustion Emissions**
+####  **3. Temperature positively influences ozone and particulate levels**
+####  **4. Ozone behavior is inversely related to combustion emissions**
 
 <br>
 
