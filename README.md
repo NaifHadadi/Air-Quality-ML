@@ -9,6 +9,7 @@ The dataset was compiled and preprocessed from multiple official sources. The de
 <br>
 
 ### **The Processed Data Structure:**
+The dataset used in this project includes daily aggregated air quality and weather data. Below is a description of each column:
 
 | Column                                 | Description                                   |
 |---------------------------------------|-----------------------------------------------|
@@ -55,8 +56,25 @@ These values are broadly consistent with the temperature trends observed in our 
 **Reference:**  
 Climate normals for Los Angeles based on NOAA 1991–2020 data, available at [NOAA National Centers for Environmental Information](https://www.ncei.noaa.gov/)
 
+<br>
+
+### **Seasonal Air Quality Highlights:**
+
+<br>
+
 ![newplot1](https://github.com/user-attachments/assets/5854e4fd-9f29-4aff-9d52-2de8617ba1d8)
 
+<br>
+
+- **Temperature** peaks in **summer** and drops in **winter**.
+- **PM10** rises noticeably in **late summer and fall**, likely due to wildfires, dust, and dry conditions.
+- **PM2.5** stays relatively steady year-round, suggesting sources like traffic or industry.
+- **Winds are strongest in spring**, helping clear the air. In contrast, **fall sees calmer winds**, allowing PM10 to accumulate.
+
+**Bottom line:**  
+Air quality tends to be worst in **late summer and fall**—a key time to focus on pollution control efforts.
+
+<br>
 <br>
 
 # Correlation Study
@@ -77,7 +95,7 @@ Key Findings & Interpretation of the Heatmap
 
 <br>
 
-![image](https://github.com/user-attachments/assets/b2fb5adb-baf7-40f5-8606-3f1ed547c479)
+<img src="https://github.com/user-attachments/assets/b2fb5adb-baf7-40f5-8606-3f1ed547c479" width="800"/>
 
 
 <br>
