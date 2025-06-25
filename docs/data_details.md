@@ -13,7 +13,7 @@
    - Data Shape: (314376, 31)
 
 3. **data_poll**: Contains ground-level air pollutant concentration data and corresponding AQI values:
-   - Source: From 2000-2016 (https://www.kaggle.com/datasets/sogun3/uspollution/data) and from 2016 - 2023 they were obtained from multiple resources.   
+   - Source: From 2000-2016 (https://www.kaggle.com/datasets/sogun3/uspollution/data), which is based on US official sources, and from 2016 - 2023, they were obtained from multiple official sources.   
    - Temporal coverage: Daily measurements  
    - Data Shape: (665414, 22)  
 
