@@ -2,6 +2,11 @@
 Data-driven analysis and machine learning models for forecasting air pollution levels in Los Angeles using historical weather and pollutant concentration data. Includes performance evaluation, feature insights, and predictive reliability assessment.
 <br>
 
+The core contributions of this work include:
+- **Data Collection & Integration** – Gathered and merged extensive official air quality datasets (2000–2023) to build a comprehensive daily pollution and weather database for Los Angeles.
+- **Pollution Analysis** – Identified key meteorological drivers and seasonal trends influencing pollutant levels, highlighting periods of elevated risk.
+- **Model Development** – Created regression models (XGBoost, 4-layer MLP) to accurately predict NO₂ concentrations, achieving MAE 2.25 and R² 0.89.
+
 # Data Details
 
 The dataset was compiled and preprocessed from multiple official sources. The details of the data processing can be found in the [data processing guide](/docs/data_details.md).  
